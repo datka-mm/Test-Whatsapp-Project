@@ -9,6 +9,14 @@ public class TestwhatsappApplication {
     public static void main(String[] args) {
         SpringApplication.run(TestwhatsappApplication.class, args);
 
+
+        System.out.println("hello world!");
+
+
+
+
+
+
 //        SendMessageService service = new SendMessageService();
 //        List<String> phoneNumbers = new ArrayList<>();
 //        phoneNumbers.add("+996705436274");
